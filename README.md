@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Jonathan
+👋 Hi, I’m John
 
 I’m a tech enthusiast transitioning into cloud security and solutions engineering. My passion lies in building secure and scalable cloud solutions while exploring programming languages and frameworks to enhance my skill set.
 
